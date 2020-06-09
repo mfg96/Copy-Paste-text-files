@@ -1,6 +1,5 @@
-//Muhammad Faraz Sohail (Faraz Sohail BlackBoard)
-//104986019
-//Assignmnet 1
+//Muhammad Faraz Sohail
+//CopyPaste(OS fundamentals)
 
 #include <stdio.h>
 #include <unistd.h>
